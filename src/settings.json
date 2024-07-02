@@ -1,0 +1,72 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Get special discounts on all car rentals! Offer valid till end of this month.",
+        "eventName": "Exciting Promotion",
+        "linkText": "Book Now"
+      }
+    },
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the road with our cutting-edge car rentals.",
+        "title": "Drive the Future, Today"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Drive the Future, Today",
+  "subtitle": "Unlock the road with our cutting-edge car rentals."
+}
